@@ -1,5 +1,5 @@
 cc = 
-adm = 
-ow = AZEMILDO6487
+adm = AZEMILDO6487 
+ow = 
 mod = JogadorModerador
 dev = MeuProgramador
