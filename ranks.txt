@@ -1,5 +1,5 @@
-cc = AZEMILDO6487
-adm = fatimap1977
+cc = 
+adm = AZEMILDO6487
 ow = 123456789
 mod = JogadorModerador
 dev = MeuProgramador
