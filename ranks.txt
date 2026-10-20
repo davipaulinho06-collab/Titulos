@@ -1,1 +1,5 @@
-CC = AZEMILDO6487,
+cc = AZEMILDO6487
+adm = fatimap1977
+ow = 123456789
+mod = JogadorModerador
+dev = MeuProgramador
